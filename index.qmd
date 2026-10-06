@@ -1,6 +1,7 @@
 ---
 title: "GNSS Notes"
 subtitle: "Technical notes on GNSS, PNT, SDR receivers, simulation, timing and ionospheric applications"
+title-block-banner: true
 listing:
   contents: posts
   sort: "date desc"
