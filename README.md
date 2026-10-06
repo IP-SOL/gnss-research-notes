@@ -1,8 +1,8 @@
-# GNSS Research Notes
+# GNSS Notes
 
 Technical notes on GNSS, PNT, SDR receivers, simulation, timing and ionospheric applications.
 
-This repository contains the Quarto source for **GNSS Research Notes**, an IP-Solutions technical publication.
+This repository contains the Quarto source for **GNSS Notes**.
 
 ## Local editing
 
@@ -28,11 +28,15 @@ GitHub Pages must be configured with **Settings → Pages → Build and deployme
 
 No Quarto Pub account is required.
 
-The initial GitHub Pages address can be used during setup. A custom domain such as `research.ip-solutions.co.jp` can be attached later.
+For the initial free setup, the site will use:
+
+`https://ip-sol.github.io/gnss-research-notes/`
+
+A custom domain such as `gnss-notes.com` can be added later.
 
 ## Authorship
 
-The default post byline is **IP-Solutions Research Team**. Individual posts may override it with a named author or appropriate joint authorship.
+Authorship is selected article by article. The site does not impose a default corporate byline.
 
 AI systems are not presented as human authors. Material AI assistance may be disclosed in an editorial note when useful.
 
