@@ -1,0 +1,28 @@
+---
+title: "Article title"
+description: "One-sentence technical summary."
+author: "IP-Solutions Research Team"
+date: YYYY-MM-DD
+categories: []
+draft: true
+---
+
+## Introduction
+
+State the technical problem or question directly.
+
+## Method or technical background
+
+Describe the relevant implementation, measurement setup, model, or analysis.
+
+## Results and discussion
+
+Present the useful result, including figures, equations, tables, or code where appropriate.
+
+## Conclusion
+
+Summarize what was established and what remains uncertain.
+
+---
+
+*Editorial note: add acknowledgements, product/test-equipment references, or AI-assistance disclosure here only when useful.*
