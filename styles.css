@@ -1,0 +1,21 @@
+/* GNSS Research Notes: deliberately restrained technical styling. */
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.quarto-title .subtitle {
+  max-width: 60rem;
+}
+
+main.content {
+  max-width: 920px;
+}
+
+.page-footer {
+  font-size: 0.9rem;
+}
+
+blockquote {
+  font-style: normal;
+}
