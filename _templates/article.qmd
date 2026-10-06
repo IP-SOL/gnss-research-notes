@@ -24,4 +24,4 @@ Summarize what was established and what remains uncertain.
 
 ---
 
-*Editorial note: add author attribution, acknowledgements, equipment references, or AI-assistance disclosure here only when useful.*
+*Editorial note: add author attribution, acknowledgements, or equipment references here only when useful.*
