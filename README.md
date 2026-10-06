@@ -38,8 +38,6 @@ A custom domain such as `gnss-notes.com` can be added later.
 
 Authorship is selected article by article. The site does not impose a default corporate byline.
 
-AI systems are not presented as human authors. Material AI assistance may be disclosed in an editorial note when useful.
-
 ## New article
 
 Copy `_templates/article.qmd` into a new directory under `posts/`, for example:
