@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "GNSS Research Notes"
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Notes
+      - href: about.qmd
+        text: About
+    right:
+      - text: "IP-Solutions"
+        href: https://ip-solutions.co.jp/
+  page-footer:
+    left: "GNSS Research Notes · IP-Solutions Satellite Applications Inc."
+    right: "Technical publication on GNSS and PNT"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto
