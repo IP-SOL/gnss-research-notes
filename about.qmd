@@ -9,5 +9,3 @@ The publication is intended to be technical rather than promotional. Products, s
 ## Authorship
 
 Authorship is selected article by article. Articles may use an individual author's real name, a collective editorial byline, or no prominent byline where that is more appropriate.
-
-AI systems are not presented as human authors. When material AI assistance is worth disclosing, it can be stated in an editorial note.
