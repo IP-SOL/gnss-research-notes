@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "GNSS Research Notes"
+  title: "GNSS Notes"
   search: true
   navbar:
     left:
@@ -11,12 +11,8 @@ website:
         text: Notes
       - href: about.qmd
         text: About
-    right:
-      - text: "IP-Solutions"
-        href: https://ip-solutions.co.jp/
   page-footer:
-    left: "GNSS Research Notes · IP-Solutions Satellite Applications Inc."
-    right: "Technical publication on GNSS and PNT"
+    left: "© IP-Solutions"
 
 format:
   html:
