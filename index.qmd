@@ -1,5 +1,5 @@
 ---
-title: "GNSS Research Notes"
+title: "GNSS Notes"
 subtitle: "Technical notes on GNSS, PNT, SDR receivers, simulation, timing and ionospheric applications"
 listing:
   contents: posts
@@ -9,8 +9,6 @@ listing:
   page-size: 20
 ---
 
-This is an independent technical publication under the IP-Solutions umbrella.
+Engineering notes, measurements, implementation observations and practical discussions in GNSS and PNT.
 
-The emphasis is on useful engineering and research material: receiver implementation, signal processing, timing, simulation, measurement methods, ionospheric effects, data formats, and related PNT topics.
-
-Articles may be written by the IP-Solutions Research Team or by named individual authors. Product references are included when technically relevant; commercial information remains on the main [IP-Solutions website](https://ip-solutions.co.jp/).
+The emphasis is on technically useful material: receiver implementation, signal processing, timing, simulation, measurement methods, ionospheric effects, data formats and related topics.
