@@ -20,3 +20,28 @@ main.content {
 blockquote {
   font-style: normal;
 }
+
+/* Home-page title banner */
+.quarto-title-banner {
+  background-image: url("images/gnss-notes-hero.jpg") !important;
+  background-size: cover !important;
+  background-position: center 52% !important;
+  background-repeat: no-repeat !important;
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.quarto-title-banner .quarto-title,
+.quarto-title-banner .title,
+.quarto-title-banner .subtitle {
+  color: #212529 !important;
+}
+
+@media (max-width: 900px) {
+  .quarto-title-banner {
+    min-height: 220px;
+    background-position: center 50% !important;
+  }
+}
