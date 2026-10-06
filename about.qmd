@@ -1,0 +1,22 @@
+---
+title: "About"
+---
+
+**GNSS Research Notes** is a technical publication associated with IP-Solutions Satellite Applications Inc.
+
+Its purpose is to publish engineering notes, measurements, tutorials, implementation observations, research-related material, and practical discussions in GNSS and PNT.
+
+## Editorial approach
+
+The publication is intentionally separate in tone from the main corporate website. Articles should primarily be useful technical material rather than sales copy. IP-Solutions products, measurements, software, or test equipment may be referenced when they are relevant to the subject.
+
+## Authorship
+
+Authorship is selected article by article.
+
+- **IP-Solutions Research Team** is the default collective byline.
+- Individual researchers or engineers may use their real names when appropriate.
+- Guest or joint authors may be credited where relevant.
+- AI systems are not presented as human authors. When material AI assistance is worth disclosing, it can be stated in an editorial note.
+
+The publication may evolve to include additional contributors and editorial identities, but bylines should remain truthful about responsibility for the technical content.
